@@ -32,6 +32,9 @@ To explore this project, follow these steps:
 
 Feel free to contribute, offer insights, or use the code as a reference for your analyses. Your feedback is valuable to us as we delve into unraveling the intricate dynamics of the maple syrup industry.
 
+## License
+
+This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
 
 ## Contact
 
